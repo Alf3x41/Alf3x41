@@ -35,12 +35,12 @@ Vyvíjam aplikácie a nástroje, ktoré zjednodušujú každodenné používanie
 
 ### 💡 Čomu sa venujem
 
-- 🖥️ Vývoju desktopových aplikácií
-- ⚡ Automatizácii opakujúcich sa úloh
-- 🎨 Modernému UI/UX dizajnu
-- 🔒 Ochrane súkromia a optimalizácii Windowsu
-- 🐧 Linuxu a experimentovaniu so softvérom
-- 🔧 Počítačovému hardvéru a diagnostike
+ 🖥️ Vývoju desktopových aplikácií
+ ⚡ Automatizácii opakujúcich sa úloh
+ 🎨 Modernému UI/UX dizajnu
+ 🔒 Ochrane súkromia a optimalizácii Windowsu
+ 🐧 Linuxu a experimentovaniu so softvérom
+ 🔧 Počítačovému hardvéru a diagnostike
 
 ---
 
