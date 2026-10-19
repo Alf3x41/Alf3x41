@@ -25,14 +25,6 @@ Vyvíjam aplikácie a nástroje, ktoré zjednodušujú každodenné používanie
 
 ---
 
-### 🚀 Moje projekty
-
-| Projekt | Popis |
-|:---|:---|
-| **WocaFuckOff™** | Automatizácia a moderné grafické rozhranie pre WocaBee. |
-| **Baseline** | Nástroj na prispôsobenie Windowsu, ochranu súkromia a odstránenie nepotrebných súčastí. |
-| **Vion** | Monitorovanie stavu počítača, diskov a hardvéru. |
-
 ### 💡 Čomu sa venujem
 
  🖥️ Vývoju desktopových aplikácií
