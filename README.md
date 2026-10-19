@@ -44,20 +44,6 @@ Vyvíjam aplikácie a nástroje, ktoré zjednodušujú každodenné používanie
 
 ---
 
-### 📊 GitHub štatistiky
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alf3x41&show_icons=true&theme=github_dark&hide_border=true&locale=sk)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alf3x41&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-### 📫 Kontakt a odkazy
-
-[![GitHub](https://img.shields.io/badge/GitHub-Alf3x41-181717?style=for-the-badge&logo=github)](https://github.com/Alf3x41)
-
----
-
 **Vytváram softvér, ktorý by som sám chcel používať.**
 
 </div>
