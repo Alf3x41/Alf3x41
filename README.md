@@ -4,8 +4,6 @@
  
 <div align="center">
 
-# 👋 Ahoj, som Alex!
-
 **Software Developer | Windows Apps | Automation**
 
 Vyvíjam aplikácie a nástroje, ktoré zjednodušujú každodenné používanie počítača. Zameriavam sa na moderné používateľské rozhrania, automatizáciu a optimalizáciu výkonu.
